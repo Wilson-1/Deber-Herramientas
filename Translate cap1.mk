@@ -16,7 +16,7 @@ Episodio 1: La Valla Publicitaria
 
 Un día, Alice está caminando por la ciudad y ve una valla publicitaria (Figura 1-1).
 
-![Figura 1-1. El cartel publicitario](C:/Users/wilso/OneDrive/Escritorio/Deber/cartel.png){width=width height=height}
+![Figura 1-1. El cartel publicitario](C:/Users/wilso/Escritorio/Deber/cartel.png){width=width height=height}
 
 
 (Por cierto, este cartel ficticio anuncia un sitio web real que diseñé para este libro. Puedes probarlo tú mismo).
