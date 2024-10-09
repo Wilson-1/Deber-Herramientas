@@ -221,7 +221,11 @@ que hay un pequeño número de métodos estándar.
 
 No es imposible crear un nuevo método HTTP (sucedió con PATCH), pero es un gran asunto. Esto no es como un lenguaje de 
 programación, donde puedes nombrar tus métodos como quieras. Cuando construí el simple sitio web de microblogging para usar 
-en este ejemplo, no definí nuevos métodos HTTP como GETHOMEPAGE y HELLOPLEASESHOWMETHEMESSAGELISTTHANKSBYE. Usé GET tanto para "mostrar la página de inicio" como para "mostrar la lista de mensajes", porque en ambos casos GET ("dame una representación de este recurso") era la mejor opción entre la interfaz de HTTP y lo que quería hacer. Distinguí entre la página de inicio y la lista de mensajes no definiendo nuevos métodos, sino tratando esos dos documentos como recursos separados, cada uno con su propia URL, accesibles a través de GET.
+en este ejemplo, no definí nuevos métodos HTTP como GETHOMEPAGE y HELLOPLEASESHOWMETHEMESSAGELISTTHANKSBYE. Usé GET tanto para
+ "mostrar la página de inicio" como para "mostrar la lista de mensajes", porque en ambos casos GET ("dame una representación 
+ de este recurso") era la mejor opción entre la interfaz de HTTP y lo que quería hacer. Distinguí entre la página de inicio y 
+ la lista de mensajes no definiendo nuevos métodos, sino tratando esos dos documentos como recursos separados, cada uno con 
+ su propia URL, accesibles a través de GET.
 
 Episodio 4: El Formulario y la Redirección
 De vuelta a nuestra historia. Alice se siente tentada por el formulario en el sitio de microblogging. Escribe "Prueba" y 
